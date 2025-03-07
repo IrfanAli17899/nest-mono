@@ -6,7 +6,7 @@
 - **Testing Framework**: Vitest
 - **Linting**: ESLint
 - **Type Checking**: TypeScript
-- **Styling**: CSS
+- **Styling**: CSS / Tailwind-CSS
 - **Routing**: React Router
 - **Code Formatting**: Prettier
 - **CI/CD**: GitHub Actions
